@@ -1,2 +1,3 @@
 ##This is the readme file
-#A titles
+#A title
+This is some text
