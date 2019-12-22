@@ -3,4 +3,4 @@
 This is some text
 Some new text
 
-#Using branches
+#Using branches to merge and stuff
